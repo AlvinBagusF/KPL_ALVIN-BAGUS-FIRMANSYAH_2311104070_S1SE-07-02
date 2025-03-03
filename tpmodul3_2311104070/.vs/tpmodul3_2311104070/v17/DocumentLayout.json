@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\alvin\\OneDrive\\Dokumen\\SEMESTER 4\\tpmodul3_2311104070\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{02DDDFB2-A872-414D-B17F-CE2B1EAF7057}|tpmodul3_2311104070\\tpmodul3_2311104070.csproj|c:\\users\\alvin\\onedrive\\dokumen\\semester 4\\tpmodul3_2311104070\\tpmodul3_2311104070\\kodepos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02DDDFB2-A872-414D-B17F-CE2B1EAF7057}|tpmodul3_2311104070\\tpmodul3_2311104070.csproj|solutionrelative:tpmodul3_2311104070\\kodepos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02DDDFB2-A872-414D-B17F-CE2B1EAF7057}|tpmodul3_2311104070\\tpmodul3_2311104070.csproj|c:\\users\\alvin\\onedrive\\dokumen\\semester 4\\tpmodul3_2311104070\\tpmodul3_2311104070\\doormachine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02DDDFB2-A872-414D-B17F-CE2B1EAF7057}|tpmodul3_2311104070\\tpmodul3_2311104070.csproj|solutionrelative:tpmodul3_2311104070\\doormachine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DoorMachine.cs",
+              "DocumentMoniker": "C:\\Users\\alvin\\OneDrive\\Dokumen\\SEMESTER 4\\tpmodul3_2311104070\\tpmodul3_2311104070\\DoorMachine.cs",
+              "RelativeDocumentMoniker": "tpmodul3_2311104070\\DoorMachine.cs",
+              "ToolTip": "C:\\Users\\alvin\\OneDrive\\Dokumen\\SEMESTER 4\\tpmodul3_2311104070\\tpmodul3_2311104070\\DoorMachine.cs",
+              "RelativeToolTip": "tpmodul3_2311104070\\DoorMachine.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T16:31:55.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "KodePos.cs",
+              "DocumentMoniker": "C:\\Users\\alvin\\OneDrive\\Dokumen\\SEMESTER 4\\tpmodul3_2311104070\\tpmodul3_2311104070\\KodePos.cs",
+              "RelativeDocumentMoniker": "tpmodul3_2311104070\\KodePos.cs",
+              "ToolTip": "C:\\Users\\alvin\\OneDrive\\Dokumen\\SEMESTER 4\\tpmodul3_2311104070\\tpmodul3_2311104070\\KodePos.cs",
+              "RelativeToolTip": "tpmodul3_2311104070\\KodePos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAcwDgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T16:02:59.429Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
