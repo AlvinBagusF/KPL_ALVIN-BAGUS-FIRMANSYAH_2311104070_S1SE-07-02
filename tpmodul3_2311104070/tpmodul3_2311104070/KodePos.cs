@@ -1,56 +1,60 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
 
-class KodePos
+namespace tpmodul3_2311104050
 {
-    private static readonly Dictionary<string, string> kodePosMap = new Dictionary<string, string>
-    {
-        {"Batununggal", "40266"},
-        {"Kujangsari", "40287"},
-        {"Mengger", "40267"},
-        {"Wates", "40256"},
-        {"Cijaura", "40287"},
-        {"Jatisari", "40286"},
-        {"Margasari", "40286"},
-        {"Sekejati", "40286"},
-        {"Kebonwaru", "40272"},
-        {"Maleer", "40274"},
-        {"Samoja", "40273"}
-    };
+    using System;
+    using System.Collections.Generic;
 
-    public static void TampilkanSemuaKodePos()
+    namespace InformasiKelurahan
     {
-        Console.WriteLine("===== DAFTAR KODE POS =====");
-        foreach (var entry in kodePosMap)
+        class Kelurahan
         {
-            Console.WriteLine($"{entry.Key}: {entry.Value}");
-        }
-    }
+            public string NamaKelurahan { get; set; }
+            public int KodePos { get; set; }
 
-    public static string GetKodePos(string kelurahan)
-    {
-        if (kodePosMap.TryGetValue(kelurahan, out string kodePos))
+            public Kelurahan(string namaKelurahan, int kodePos)
+            {
+                NamaKelurahan = namaKelurahan;
+                KodePos = kodePos;
+            }
+
+            public void TampilkanInformasi()
+            {
+                Console.WriteLine($"Kelurahan: {NamaKelurahan}, Kode Pos: {KodePos}");
+            }
+        }
+
+        class Program
         {
-            return kodePos;
+            static void Main(string[] args)
+            {
+                // Membuat list kelurahan
+                List<Kelurahan> kelurahans = new List<Kelurahan>
+            {
+                new Kelurahan("Batununggal", 40266),
+                new Kelurahan("Kujangsari", 40287),
+                new Kelurahan("Mengger", 40267),
+                new Kelurahan("Wates", 40256),
+                new Kelurahan("Cijura", 40287),
+                new Kelurahan("Jatisari", 40286),
+                new Kelurahan("Margasari", 40286),
+                new Kelurahan("Sekejati", 40286),
+                new Kelurahan("Kebonwaru", 40272),
+                new Kelurahan("Maleer", 40274),
+                new Kelurahan("Samoja", 40273)
+            };
+
+                // Memanggil metode untuk menampilkan informasi kelurahan
+                Console.WriteLine("Daftar Kelurahan dan Kode Pos:");
+                foreach (var kelurahan in kelurahans)
+                {
+                    kelurahan.TampilkanInformasi();
+                }
+            }
         }
-        return "Kode pos tidak ditemukan";
-    }
-}
-
-// Contoh penggunaan
-class Program
-{
-    static void Main()
-    {
-        // Menampilkan semua kode pos
-        KodePos.TampilkanSemuaKodePos();
-
-        // Mencari kode pos berdasarkan kelurahan
-        Console.WriteLine("\nKode pos Batununggal: " + KodePos.GetKodePos("Batununggal"));
-        Console.WriteLine("Kode pos Wates: " + KodePos.GetKodePos("Wates"));
-        Console.WriteLine("Kode pos TidakAda: " + KodePos.GetKodePos("TidakAda"));
-
-        Console.WriteLine("\nProgram selesai. Tekan Enter untuk keluar.");
-        Console.ReadLine();
     }
 }
