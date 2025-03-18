@@ -5,6 +5,9 @@
     {
       "AbsoluteMoniker": "D:0:0:{586A7E61-2850-4500-BCE9-AB6AF990C7EC}|tpmodul2_2311104070\\tpmodul2_2311104070.csproj|c:\\users\\alvin\\documents\\kpl_alvin-bagus-firmansyah_2311104070_s1se-07-02\\02_ide_gui_version_control\\tpmodul2_2311104070\\tpmodul2_2311104070\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{586A7E61-2850-4500-BCE9-AB6AF990C7EC}|tpmodul2_2311104070\\tpmodul2_2311104070.csproj|solutionrelative:tpmodul2_2311104070\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alvin\\OneDrive\\Dokumen\\KPL\\kpl_se07_02\\02_IDE_GUI_Version_Control\\TP MODUL 2\\tpmodul2_2311104070\\tpmodul2_2311104070\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +17,20 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\alvin\\OneDrive\\Dokumen\\KPL\\kpl_se07_02\\02_IDE_GUI_Version_Control\\TP MODUL 2\\tpmodul2_2311104070\\tpmodul2_2311104070\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\OneDrive\\Dokumen\\KPL\\kpl_se07_02\\02_IDE_GUI_Version_Control\\TP MODUL 2\\tpmodul2_2311104070\\tpmodul2_2311104070\\Program.cs",
+              "ToolTip": "C:\\Users\\alvin\\OneDrive\\Dokumen\\KPL\\kpl_se07_02\\02_IDE_GUI_Version_Control\\TP MODUL 2\\tpmodul2_2311104070\\tpmodul2_2311104070\\Program.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\OneDrive\\Dokumen\\KPL\\kpl_se07_02\\02_IDE_GUI_Version_Control\\TP MODUL 2\\tpmodul2_2311104070\\tpmodul2_2311104070\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T07:29:02.413Z"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,7 +39,7 @@
               "RelativeDocumentMoniker": "tpmodul2_2311104070\\Program.cs",
               "ToolTip": "C:\\Users\\alvin\\Documents\\KPL_ALVIN-BAGUS-FIRMANSYAH_2311104070_S1SE-07-02\\02_IDE_GUI_Version_Control\\tpmodul2_2311104070\\tpmodul2_2311104070\\Program.cs",
               "RelativeToolTip": "tpmodul2_2311104070\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-18T07:27:59.335Z",
               "EditorCaption": ""
