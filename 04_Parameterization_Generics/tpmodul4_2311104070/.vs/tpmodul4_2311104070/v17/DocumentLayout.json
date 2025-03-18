@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\alvin\\Documents\\KPL_ALVIN-BAGUS-FIRMANSYAH_2311104070_S1SE-07-02\\04_Parameterization_Generics\\tpmodul4_2311104070\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5FA3BF44-7DA9-48CD-8D62-50E7A3B608BC}|tpmodul4_2311104070\\tpmodul4_2311104070.csproj|c:\\users\\alvin\\documents\\kpl_alvin-bagus-firmansyah_2311104070_s1se-07-02\\04_parameterization_generics\\tpmodul4_2311104070\\tpmodul4_2311104070\\doormachine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FA3BF44-7DA9-48CD-8D62-50E7A3B608BC}|tpmodul4_2311104070\\tpmodul4_2311104070.csproj|solutionrelative:tpmodul4_2311104070\\doormachine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FA3BF44-7DA9-48CD-8D62-50E7A3B608BC}|tpmodul4_2311104070\\tpmodul4_2311104070.csproj|c:\\users\\alvin\\documents\\kpl_alvin-bagus-firmansyah_2311104070_s1se-07-02\\04_parameterization_generics\\tpmodul4_2311104070\\tpmodul4_2311104070\\kodepos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FA3BF44-7DA9-48CD-8D62-50E7A3B608BC}|tpmodul4_2311104070\\tpmodul4_2311104070.csproj|solutionrelative:tpmodul4_2311104070\\kodepos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FA3BF44-7DA9-48CD-8D62-50E7A3B608BC}|tpmodul4_2311104070\\tpmodul4_2311104070.csproj|c:\\users\\alvin\\documents\\kpl_alvin-bagus-firmansyah_2311104070_s1se-07-02\\04_parameterization_generics\\tpmodul4_2311104070\\tpmodul4_2311104070\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FA3BF44-7DA9-48CD-8D62-50E7A3B608BC}|tpmodul4_2311104070\\tpmodul4_2311104070.csproj|solutionrelative:tpmodul4_2311104070\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "KodePos.cs",
+              "DocumentMoniker": "C:\\Users\\alvin\\Documents\\KPL_ALVIN-BAGUS-FIRMANSYAH_2311104070_S1SE-07-02\\04_Parameterization_Generics\\tpmodul4_2311104070\\tpmodul4_2311104070\\KodePos.cs",
+              "RelativeDocumentMoniker": "tpmodul4_2311104070\\KodePos.cs",
+              "ToolTip": "C:\\Users\\alvin\\Documents\\KPL_ALVIN-BAGUS-FIRMANSYAH_2311104070_S1SE-07-02\\04_Parameterization_Generics\\tpmodul4_2311104070\\tpmodul4_2311104070\\KodePos.cs",
+              "RelativeToolTip": "tpmodul4_2311104070\\KodePos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T08:03:25.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DoorMachine.cs",
+              "DocumentMoniker": "C:\\Users\\alvin\\Documents\\KPL_ALVIN-BAGUS-FIRMANSYAH_2311104070_S1SE-07-02\\04_Parameterization_Generics\\tpmodul4_2311104070\\tpmodul4_2311104070\\DoorMachine.cs",
+              "RelativeDocumentMoniker": "tpmodul4_2311104070\\DoorMachine.cs",
+              "ToolTip": "C:\\Users\\alvin\\Documents\\KPL_ALVIN-BAGUS-FIRMANSYAH_2311104070_S1SE-07-02\\04_Parameterization_Generics\\tpmodul4_2311104070\\tpmodul4_2311104070\\DoorMachine.cs",
+              "RelativeToolTip": "tpmodul4_2311104070\\DoorMachine.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T08:03:09.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\alvin\\Documents\\KPL_ALVIN-BAGUS-FIRMANSYAH_2311104070_S1SE-07-02\\04_Parameterization_Generics\\tpmodul4_2311104070\\tpmodul4_2311104070\\Program.cs",
+              "RelativeDocumentMoniker": "tpmodul4_2311104070\\Program.cs",
+              "ToolTip": "C:\\Users\\alvin\\Documents\\KPL_ALVIN-BAGUS-FIRMANSYAH_2311104070_S1SE-07-02\\04_Parameterization_Generics\\tpmodul4_2311104070\\tpmodul4_2311104070\\Program.cs",
+              "RelativeToolTip": "tpmodul4_2311104070\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T08:01:44.598Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
