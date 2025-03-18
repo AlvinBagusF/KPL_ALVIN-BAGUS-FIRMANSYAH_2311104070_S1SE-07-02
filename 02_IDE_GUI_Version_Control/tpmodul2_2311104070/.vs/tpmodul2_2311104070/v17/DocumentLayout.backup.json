@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\alvin\\Documents\\KPL_ALVIN-BAGUS-FIRMANSYAH_2311104070_S1SE-07-02\\02_IDE_GUI_Version_Control\\tpmodul2_2311104070\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{586A7E61-2850-4500-BCE9-AB6AF990C7EC}|tpmodul2_2311104070\\tpmodul2_2311104070.csproj|c:\\users\\alvin\\documents\\kpl_alvin-bagus-firmansyah_2311104070_s1se-07-02\\02_ide_gui_version_control\\tpmodul2_2311104070\\tpmodul2_2311104070\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{586A7E61-2850-4500-BCE9-AB6AF990C7EC}|tpmodul2_2311104070\\tpmodul2_2311104070.csproj|solutionrelative:tpmodul2_2311104070\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\alvin\\Documents\\KPL_ALVIN-BAGUS-FIRMANSYAH_2311104070_S1SE-07-02\\02_IDE_GUI_Version_Control\\tpmodul2_2311104070\\tpmodul2_2311104070\\Program.cs",
+              "RelativeDocumentMoniker": "tpmodul2_2311104070\\Program.cs",
+              "ToolTip": "C:\\Users\\alvin\\Documents\\KPL_ALVIN-BAGUS-FIRMANSYAH_2311104070_S1SE-07-02\\02_IDE_GUI_Version_Control\\tpmodul2_2311104070\\tpmodul2_2311104070\\Program.cs",
+              "RelativeToolTip": "tpmodul2_2311104070\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T07:27:59.335Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
