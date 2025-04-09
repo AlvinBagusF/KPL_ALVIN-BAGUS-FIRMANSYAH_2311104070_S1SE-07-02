@@ -1,0 +1,5 @@
+C:\Users\alvin\Documents\KPL_ALVIN-BAGUS-FIRMANSYAH_2311104070_S1SE-07-02\03_Statebased_Table_Driven_Construction\JurnalModul3_2311104070\JurnalModul3_2311104070\obj\Debug\net8.0\JurnalModul3_2311104070.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alvin\Documents\KPL_ALVIN-BAGUS-FIRMANSYAH_2311104070_S1SE-07-02\03_Statebased_Table_Driven_Construction\JurnalModul3_2311104070\JurnalModul3_2311104070\obj\Debug\net8.0\JurnalModul3_2311104070.AssemblyInfoInputs.cache
+C:\Users\alvin\Documents\KPL_ALVIN-BAGUS-FIRMANSYAH_2311104070_S1SE-07-02\03_Statebased_Table_Driven_Construction\JurnalModul3_2311104070\JurnalModul3_2311104070\obj\Debug\net8.0\JurnalModul3_2311104070.AssemblyInfo.cs
+C:\Users\alvin\Documents\KPL_ALVIN-BAGUS-FIRMANSYAH_2311104070_S1SE-07-02\03_Statebased_Table_Driven_Construction\JurnalModul3_2311104070\JurnalModul3_2311104070\obj\Debug\net8.0\JurnalModul3_2311104070.csproj.CoreCompileInputs.cache
+C:\Users\alvin\Documents\KPL_ALVIN-BAGUS-FIRMANSYAH_2311104070_S1SE-07-02\03_Statebased_Table_Driven_Construction\JurnalModul3_2311104070\JurnalModul3_2311104070\obj\Debug\net8.0\JurnalModul3_2311104070.sourcelink.json

@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\alvin\\Documents\\KPL_ALVIN-BAGUS-FIRMANSYAH_2311104070_S1SE-07-02\\03_Statebased_Table_Driven_Construction\\JurnalModul3_2311104070\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4759AC28-8377-4C36-9186-6EC8E42ABE13}|JurnalModul3_2311104070\\JurnalModul3_2311104070.csproj|c:\\users\\alvin\\documents\\kpl_alvin-bagus-firmansyah_2311104070_s1se-07-02\\03_statebased_table_driven_construction\\jurnalmodul3_2311104070\\jurnalmodul3_2311104070\\from1.designer||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{4759AC28-8377-4C36-9186-6EC8E42ABE13}|JurnalModul3_2311104070\\JurnalModul3_2311104070.csproj|solutionrelative:jurnalmodul3_2311104070\\from1.designer||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4759AC28-8377-4C36-9186-6EC8E42ABE13}|JurnalModul3_2311104070\\JurnalModul3_2311104070.csproj|c:\\users\\alvin\\documents\\kpl_alvin-bagus-firmansyah_2311104070_s1se-07-02\\03_statebased_table_driven_construction\\jurnalmodul3_2311104070\\jurnalmodul3_2311104070\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4759AC28-8377-4C36-9186-6EC8E42ABE13}|JurnalModul3_2311104070\\JurnalModul3_2311104070.csproj|solutionrelative:jurnalmodul3_2311104070\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alvin\\AppData\\Local\\Temp\\6ef5a7eb-0ca1-4915-a4f1-e3fa25c93b96_JurnalModul3KPL.zip.JurnalModul3KPL.zip\\JurnalModul3KPL\\JurnalModul3KPL\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4759AC28-8377-4C36-9186-6EC8E42ABE13}|JurnalModul3_2311104070\\JurnalModul3_2311104070.csproj|c:\\users\\alvin\\documents\\kpl_alvin-bagus-firmansyah_2311104070_s1se-07-02\\03_statebased_table_driven_construction\\jurnalmodul3_2311104070\\jurnalmodul3_2311104070\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4759AC28-8377-4C36-9186-6EC8E42ABE13}|JurnalModul3_2311104070\\JurnalModul3_2311104070.csproj|solutionrelative:jurnalmodul3_2311104070\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alvin\\AppData\\Local\\Temp\\07b7e362-eba1-4afe-9412-70ef8ed0b9d3_JurnalModul3KPL.zip.JurnalModul3KPL.zip\\JurnalModul3KPL\\JurnalModul3KPL\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "From1.Designer",
+              "DocumentMoniker": "C:\\Users\\alvin\\Documents\\KPL_ALVIN-BAGUS-FIRMANSYAH_2311104070_S1SE-07-02\\03_Statebased_Table_Driven_Construction\\JurnalModul3_2311104070\\JurnalModul3_2311104070\\From1.Designer",
+              "RelativeDocumentMoniker": "JurnalModul3_2311104070\\From1.Designer",
+              "ToolTip": "C:\\Users\\alvin\\Documents\\KPL_ALVIN-BAGUS-FIRMANSYAH_2311104070_S1SE-07-02\\03_Statebased_Table_Driven_Construction\\JurnalModul3_2311104070\\JurnalModul3_2311104070\\From1.Designer",
+              "RelativeToolTip": "JurnalModul3_2311104070\\From1.Designer",
+              "ViewState": "AgIAAMAAAAAAAAAAAAAAAOQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-03-27T17:21:17.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\alvin\\Documents\\KPL_ALVIN-BAGUS-FIRMANSYAH_2311104070_S1SE-07-02\\03_Statebased_Table_Driven_Construction\\JurnalModul3_2311104070\\JurnalModul3_2311104070\\Form1.cs",
+              "RelativeDocumentMoniker": "JurnalModul3_2311104070\\Form1.cs",
+              "ToolTip": "C:\\Users\\alvin\\Documents\\KPL_ALVIN-BAGUS-FIRMANSYAH_2311104070_S1SE-07-02\\03_Statebased_Table_Driven_Construction\\JurnalModul3_2311104070\\JurnalModul3_2311104070\\Form1.cs",
+              "RelativeToolTip": "JurnalModul3_2311104070\\Form1.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAA7wDAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T17:20:41.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\alvin\\AppData\\Local\\Temp\\6ef5a7eb-0ca1-4915-a4f1-e3fa25c93b96_JurnalModul3KPL.zip.JurnalModul3KPL.zip\\JurnalModul3KPL\\JurnalModul3KPL\\Form1.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Local\\Temp\\6ef5a7eb-0ca1-4915-a4f1-e3fa25c93b96_JurnalModul3KPL.zip.JurnalModul3KPL.zip\\JurnalModul3KPL\\JurnalModul3KPL\\Form1.cs",
+              "ToolTip": "C:\\Users\\alvin\\AppData\\Local\\Temp\\6ef5a7eb-0ca1-4915-a4f1-e3fa25c93b96_JurnalModul3KPL.zip.JurnalModul3KPL.zip\\JurnalModul3KPL\\JurnalModul3KPL\\Form1.cs [Read Only]",
+              "RelativeToolTip": "..\\..\\..\\..\\AppData\\Local\\Temp\\6ef5a7eb-0ca1-4915-a4f1-e3fa25c93b96_JurnalModul3KPL.zip.JurnalModul3KPL.zip\\JurnalModul3KPL\\JurnalModul3KPL\\Form1.cs [Read Only]",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAowDAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T17:20:21.564Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\alvin\\AppData\\Local\\Temp\\07b7e362-eba1-4afe-9412-70ef8ed0b9d3_JurnalModul3KPL.zip.JurnalModul3KPL.zip\\JurnalModul3KPL\\JurnalModul3KPL\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Local\\Temp\\07b7e362-eba1-4afe-9412-70ef8ed0b9d3_JurnalModul3KPL.zip.JurnalModul3KPL.zip\\JurnalModul3KPL\\JurnalModul3KPL\\Program.cs",
+              "ToolTip": "C:\\Users\\alvin\\AppData\\Local\\Temp\\07b7e362-eba1-4afe-9412-70ef8ed0b9d3_JurnalModul3KPL.zip.JurnalModul3KPL.zip\\JurnalModul3KPL\\JurnalModul3KPL\\Program.cs [Read Only]",
+              "RelativeToolTip": "..\\..\\..\\..\\AppData\\Local\\Temp\\07b7e362-eba1-4afe-9412-70ef8ed0b9d3_JurnalModul3KPL.zip.JurnalModul3KPL.zip\\JurnalModul3KPL\\JurnalModul3KPL\\Program.cs [Read Only]",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T17:20:06.173Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\alvin\\Documents\\KPL_ALVIN-BAGUS-FIRMANSYAH_2311104070_S1SE-07-02\\03_Statebased_Table_Driven_Construction\\JurnalModul3_2311104070\\JurnalModul3_2311104070\\Program.cs",
+              "RelativeDocumentMoniker": "JurnalModul3_2311104070\\Program.cs",
+              "ToolTip": "C:\\Users\\alvin\\Documents\\KPL_ALVIN-BAGUS-FIRMANSYAH_2311104070_S1SE-07-02\\03_Statebased_Table_Driven_Construction\\JurnalModul3_2311104070\\JurnalModul3_2311104070\\Program.cs",
+              "RelativeToolTip": "JurnalModul3_2311104070\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T17:17:15.445Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
