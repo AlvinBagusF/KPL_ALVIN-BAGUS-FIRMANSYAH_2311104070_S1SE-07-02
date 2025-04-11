@@ -1,0 +1,16 @@
+{
+  "mataKuliah": [
+    {
+      "kode": "IF2201",
+      "nama": "Konstruksi Perangkat Lunak"
+    },
+    {
+      "kode": "IF2202",
+      "nama": "Pemrograman Berbasis Objek"
+    },
+    {
+      "kode": "IF2203",
+      "nama": "Basis Data"
+    }
+  ]
+}

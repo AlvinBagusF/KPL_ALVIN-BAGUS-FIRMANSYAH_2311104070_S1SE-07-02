@@ -1,0 +1,23 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework> <!-- Ganti ke net7.0 kalau pakai .NET 7 -->
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Update="tp7_1_2311104070.json">
+      <CopyToOutputDirectory> Copy if newer (atau "Always").
+
+</CopyToOutputDirectory>
+    </None>
+    <None Update="tp7_2_2311104070.json">
+      <CopyToOutputDirectory> Copy if newer (atau "Always").
+
+</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
+</Project>
