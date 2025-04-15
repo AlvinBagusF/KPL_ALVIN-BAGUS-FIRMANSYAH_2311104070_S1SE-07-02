@@ -1,0 +1,15 @@
+C:\Users\alvin\OneDrive\Dokumen\SEMESTER 4\Praktikum Konstruksi Perangkat Lunak_2311104070\pertemuan 5\JURNAL MODUL 5\modul5_2311104070\modul5_2311104070\obj\Debug\net8.0\modul5_2311104070..GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alvin\OneDrive\Dokumen\SEMESTER 4\Praktikum Konstruksi Perangkat Lunak_2311104070\pertemuan 5\JURNAL MODUL 5\modul5_2311104070\modul5_2311104070\obj\Debug\net8.0\modul5_2311104070..AssemblyInfoInputs.cache
+C:\Users\alvin\OneDrive\Dokumen\SEMESTER 4\Praktikum Konstruksi Perangkat Lunak_2311104070\pertemuan 5\JURNAL MODUL 5\modul5_2311104070\modul5_2311104070\obj\Debug\net8.0\modul5_2311104070..AssemblyInfo.cs
+C:\Users\alvin\OneDrive\Dokumen\SEMESTER 4\Praktikum Konstruksi Perangkat Lunak_2311104070\pertemuan 5\JURNAL MODUL 5\modul5_2311104070\modul5_2311104070\obj\Debug\net8.0\modul5_2311104070..csproj.CoreCompileInputs.cache
+C:\Users\alvin\OneDrive\Dokumen\SEMESTER 4\Praktikum Konstruksi Perangkat Lunak_2311104070\pertemuan 5\JURNAL MODUL 5\modul5_2311104070\modul5_2311104070\obj\Debug\net8.0\modul5_2311104070..sourcelink.json
+C:\Users\alvin\OneDrive\Dokumen\SEMESTER 4\Praktikum Konstruksi Perangkat Lunak_2311104070\pertemuan 5\JURNAL MODUL 5\modul5_2311104070\modul5_2311104070\bin\Debug\net8.0\modul5_2311104070..exe
+C:\Users\alvin\OneDrive\Dokumen\SEMESTER 4\Praktikum Konstruksi Perangkat Lunak_2311104070\pertemuan 5\JURNAL MODUL 5\modul5_2311104070\modul5_2311104070\bin\Debug\net8.0\modul5_2311104070..deps.json
+C:\Users\alvin\OneDrive\Dokumen\SEMESTER 4\Praktikum Konstruksi Perangkat Lunak_2311104070\pertemuan 5\JURNAL MODUL 5\modul5_2311104070\modul5_2311104070\bin\Debug\net8.0\modul5_2311104070..runtimeconfig.json
+C:\Users\alvin\OneDrive\Dokumen\SEMESTER 4\Praktikum Konstruksi Perangkat Lunak_2311104070\pertemuan 5\JURNAL MODUL 5\modul5_2311104070\modul5_2311104070\bin\Debug\net8.0\modul5_2311104070..dll
+C:\Users\alvin\OneDrive\Dokumen\SEMESTER 4\Praktikum Konstruksi Perangkat Lunak_2311104070\pertemuan 5\JURNAL MODUL 5\modul5_2311104070\modul5_2311104070\bin\Debug\net8.0\modul5_2311104070..pdb
+C:\Users\alvin\OneDrive\Dokumen\SEMESTER 4\Praktikum Konstruksi Perangkat Lunak_2311104070\pertemuan 5\JURNAL MODUL 5\modul5_2311104070\modul5_2311104070\obj\Debug\net8.0\modul5_2311104070..dll
+C:\Users\alvin\OneDrive\Dokumen\SEMESTER 4\Praktikum Konstruksi Perangkat Lunak_2311104070\pertemuan 5\JURNAL MODUL 5\modul5_2311104070\modul5_2311104070\obj\Debug\net8.0\refint\modul5_2311104070..dll
+C:\Users\alvin\OneDrive\Dokumen\SEMESTER 4\Praktikum Konstruksi Perangkat Lunak_2311104070\pertemuan 5\JURNAL MODUL 5\modul5_2311104070\modul5_2311104070\obj\Debug\net8.0\modul5_2311104070..pdb
+C:\Users\alvin\OneDrive\Dokumen\SEMESTER 4\Praktikum Konstruksi Perangkat Lunak_2311104070\pertemuan 5\JURNAL MODUL 5\modul5_2311104070\modul5_2311104070\obj\Debug\net8.0\modul5_2311104070..genruntimeconfig.cache
+C:\Users\alvin\OneDrive\Dokumen\SEMESTER 4\Praktikum Konstruksi Perangkat Lunak_2311104070\pertemuan 5\JURNAL MODUL 5\modul5_2311104070\modul5_2311104070\obj\Debug\net8.0\ref\modul5_2311104070..dll
