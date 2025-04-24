@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\alvin\\Documents\\KPL_ALVIN-BAGUS-FIRMANSYAH_2311104070_S1SE-07-02\\09_Code_Reuse_and_Libraries\\TPmodul9_2311104070\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EFB2AF2E-7F32-47AB-B00E-BF8612E2B247}|TPmodul9_2311104070\\TPmodul9_2311104070.csproj|c:\\users\\alvin\\documents\\kpl_alvin-bagus-firmansyah_2311104070_s1se-07-02\\09_code_reuse_and_libraries\\tpmodul9_2311104070\\tpmodul9_2311104070\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFB2AF2E-7F32-47AB-B00E-BF8612E2B247}|TPmodul9_2311104070\\TPmodul9_2311104070.csproj|solutionrelative:tpmodul9_2311104070\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFB2AF2E-7F32-47AB-B00E-BF8612E2B247}|TPmodul9_2311104070\\TPmodul9_2311104070.csproj|c:\\users\\alvin\\documents\\kpl_alvin-bagus-firmansyah_2311104070_s1se-07-02\\09_code_reuse_and_libraries\\tpmodul9_2311104070\\tpmodul9_2311104070\\tpmodul9_2311104070.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{EFB2AF2E-7F32-47AB-B00E-BF8612E2B247}|TPmodul9_2311104070\\TPmodul9_2311104070.csproj|solutionrelative:tpmodul9_2311104070\\tpmodul9_2311104070.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\alvin\\Documents\\KPL_ALVIN-BAGUS-FIRMANSYAH_2311104070_S1SE-07-02\\09_Code_Reuse_and_Libraries\\TPmodul9_2311104070\\TPmodul9_2311104070\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "TPmodul9_2311104070\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\alvin\\Documents\\KPL_ALVIN-BAGUS-FIRMANSYAH_2311104070_S1SE-07-02\\09_Code_Reuse_and_Libraries\\TPmodul9_2311104070\\TPmodul9_2311104070\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "TPmodul9_2311104070\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T16:28:18.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TPmodul9_2311104070.http",
+              "DocumentMoniker": "C:\\Users\\alvin\\Documents\\KPL_ALVIN-BAGUS-FIRMANSYAH_2311104070_S1SE-07-02\\09_Code_Reuse_and_Libraries\\TPmodul9_2311104070\\TPmodul9_2311104070\\TPmodul9_2311104070.http",
+              "RelativeDocumentMoniker": "TPmodul9_2311104070\\TPmodul9_2311104070.http",
+              "ToolTip": "C:\\Users\\alvin\\Documents\\KPL_ALVIN-BAGUS-FIRMANSYAH_2311104070_S1SE-07-02\\09_Code_Reuse_and_Libraries\\TPmodul9_2311104070\\TPmodul9_2311104070\\TPmodul9_2311104070.http",
+              "RelativeToolTip": "TPmodul9_2311104070\\TPmodul9_2311104070.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-04-24T16:28:08.086Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
