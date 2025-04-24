@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Alvin_modul6_2311104070")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+40ca4e4755b77a0d4febc197b29b2aed1bff51af")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+21273703c4dbf4e2d9f60fe35a45614b9b713d6c")]
 [assembly: System.Reflection.AssemblyProductAttribute("Alvin_modul6_2311104070")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Alvin_modul6_2311104070")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

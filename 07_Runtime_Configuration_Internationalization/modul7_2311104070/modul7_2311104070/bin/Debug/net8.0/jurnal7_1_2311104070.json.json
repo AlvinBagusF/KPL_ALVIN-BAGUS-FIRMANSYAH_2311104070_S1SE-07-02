@@ -1,0 +1,35 @@
+using Newtonsoft.Json;
+using System;
+using System.IO;
+
+namespace Modul7
+{
+    public class DataMahasiswa2311104070
+    {
+        // Misalnya struktur JSON kamu adalah seperti ini:
+        // { "nim": "2311104070", "name": "Alvin Bagus", "age": 22, "gender": "Male" }
+
+        public string nim { get; set; }
+        public string name { get; set; }
+        public int age { get; set; }
+        public string gender { get; set; }
+
+        public void ReadJSON()
+        {
+            string filePath = @"jurnal7_1_2311104070.json"; // Ganti dengan path file JSON kamu
+            if (File.Exists(filePath))
+            {
+                string jsonContent = File.ReadAllText(filePath);
+                DataMahasiswa2311104070 mahasiswa = JsonConvert.DeserializeObject<DataMahasiswa2311104070>(jsonContent);
+                Console.WriteLine($"NIM: {mahasiswa.nim}");
+                Console.WriteLine($"Name: {mahasiswa.name}");
+                Console.WriteLine($"Age: {mahasiswa.age}");
+                Console.WriteLine($"Gender: {mahasiswa.gender}");
+            }
+            else
+            {
+                Console.WriteLine("File JSON tidak ditemukan!");
+            }
+        }
+    }
+}

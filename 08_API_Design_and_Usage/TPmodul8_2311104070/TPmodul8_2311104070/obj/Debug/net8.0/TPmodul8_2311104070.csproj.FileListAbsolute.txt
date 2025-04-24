@@ -1,0 +1,16 @@
+C:\Users\alvin\Documents\KPL_ALVIN-BAGUS-FIRMANSYAH_2311104070_S1SE-07-02\08_API_Design_and_Usage\TPmodul8_2311104070\TPmodul8_2311104070\bin\Debug\net8.0\covid_config.json
+C:\Users\alvin\Documents\KPL_ALVIN-BAGUS-FIRMANSYAH_2311104070_S1SE-07-02\08_API_Design_and_Usage\TPmodul8_2311104070\TPmodul8_2311104070\bin\Debug\net8.0\TPmodul8_2311104070.exe
+C:\Users\alvin\Documents\KPL_ALVIN-BAGUS-FIRMANSYAH_2311104070_S1SE-07-02\08_API_Design_and_Usage\TPmodul8_2311104070\TPmodul8_2311104070\bin\Debug\net8.0\TPmodul8_2311104070.deps.json
+C:\Users\alvin\Documents\KPL_ALVIN-BAGUS-FIRMANSYAH_2311104070_S1SE-07-02\08_API_Design_and_Usage\TPmodul8_2311104070\TPmodul8_2311104070\bin\Debug\net8.0\TPmodul8_2311104070.runtimeconfig.json
+C:\Users\alvin\Documents\KPL_ALVIN-BAGUS-FIRMANSYAH_2311104070_S1SE-07-02\08_API_Design_and_Usage\TPmodul8_2311104070\TPmodul8_2311104070\bin\Debug\net8.0\TPmodul8_2311104070.dll
+C:\Users\alvin\Documents\KPL_ALVIN-BAGUS-FIRMANSYAH_2311104070_S1SE-07-02\08_API_Design_and_Usage\TPmodul8_2311104070\TPmodul8_2311104070\bin\Debug\net8.0\TPmodul8_2311104070.pdb
+C:\Users\alvin\Documents\KPL_ALVIN-BAGUS-FIRMANSYAH_2311104070_S1SE-07-02\08_API_Design_and_Usage\TPmodul8_2311104070\TPmodul8_2311104070\obj\Debug\net8.0\TPmodul8_2311104070.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alvin\Documents\KPL_ALVIN-BAGUS-FIRMANSYAH_2311104070_S1SE-07-02\08_API_Design_and_Usage\TPmodul8_2311104070\TPmodul8_2311104070\obj\Debug\net8.0\TPmodul8_2311104070.AssemblyInfoInputs.cache
+C:\Users\alvin\Documents\KPL_ALVIN-BAGUS-FIRMANSYAH_2311104070_S1SE-07-02\08_API_Design_and_Usage\TPmodul8_2311104070\TPmodul8_2311104070\obj\Debug\net8.0\TPmodul8_2311104070.AssemblyInfo.cs
+C:\Users\alvin\Documents\KPL_ALVIN-BAGUS-FIRMANSYAH_2311104070_S1SE-07-02\08_API_Design_and_Usage\TPmodul8_2311104070\TPmodul8_2311104070\obj\Debug\net8.0\TPmodul8_2311104070.csproj.CoreCompileInputs.cache
+C:\Users\alvin\Documents\KPL_ALVIN-BAGUS-FIRMANSYAH_2311104070_S1SE-07-02\08_API_Design_and_Usage\TPmodul8_2311104070\TPmodul8_2311104070\obj\Debug\net8.0\TPmodul8_2311104070.sourcelink.json
+C:\Users\alvin\Documents\KPL_ALVIN-BAGUS-FIRMANSYAH_2311104070_S1SE-07-02\08_API_Design_and_Usage\TPmodul8_2311104070\TPmodul8_2311104070\obj\Debug\net8.0\TPmodul8_2311104070.dll
+C:\Users\alvin\Documents\KPL_ALVIN-BAGUS-FIRMANSYAH_2311104070_S1SE-07-02\08_API_Design_and_Usage\TPmodul8_2311104070\TPmodul8_2311104070\obj\Debug\net8.0\refint\TPmodul8_2311104070.dll
+C:\Users\alvin\Documents\KPL_ALVIN-BAGUS-FIRMANSYAH_2311104070_S1SE-07-02\08_API_Design_and_Usage\TPmodul8_2311104070\TPmodul8_2311104070\obj\Debug\net8.0\TPmodul8_2311104070.pdb
+C:\Users\alvin\Documents\KPL_ALVIN-BAGUS-FIRMANSYAH_2311104070_S1SE-07-02\08_API_Design_and_Usage\TPmodul8_2311104070\TPmodul8_2311104070\obj\Debug\net8.0\TPmodul8_2311104070.genruntimeconfig.cache
+C:\Users\alvin\Documents\KPL_ALVIN-BAGUS-FIRMANSYAH_2311104070_S1SE-07-02\08_API_Design_and_Usage\TPmodul8_2311104070\TPmodul8_2311104070\obj\Debug\net8.0\ref\TPmodul8_2311104070.dll
