@@ -1,0 +1,12 @@
+C:\Users\alvin\Documents\KPL_ALVIN-BAGUS-FIRMANSYAH_2311104070_S1SE-07-02\10_Integrated_Project_Implementation\JurnalModul10_2311104070\MatematikaLibraries\bin\Debug\net8.0\MatematikaLibraries.deps.json
+C:\Users\alvin\Documents\KPL_ALVIN-BAGUS-FIRMANSYAH_2311104070_S1SE-07-02\10_Integrated_Project_Implementation\JurnalModul10_2311104070\MatematikaLibraries\bin\Debug\net8.0\MatematikaLibraries.dll
+C:\Users\alvin\Documents\KPL_ALVIN-BAGUS-FIRMANSYAH_2311104070_S1SE-07-02\10_Integrated_Project_Implementation\JurnalModul10_2311104070\MatematikaLibraries\bin\Debug\net8.0\MatematikaLibraries.pdb
+C:\Users\alvin\Documents\KPL_ALVIN-BAGUS-FIRMANSYAH_2311104070_S1SE-07-02\10_Integrated_Project_Implementation\JurnalModul10_2311104070\MatematikaLibraries\obj\Debug\net8.0\MatematikaLibraries.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alvin\Documents\KPL_ALVIN-BAGUS-FIRMANSYAH_2311104070_S1SE-07-02\10_Integrated_Project_Implementation\JurnalModul10_2311104070\MatematikaLibraries\obj\Debug\net8.0\MatematikaLibraries.AssemblyInfoInputs.cache
+C:\Users\alvin\Documents\KPL_ALVIN-BAGUS-FIRMANSYAH_2311104070_S1SE-07-02\10_Integrated_Project_Implementation\JurnalModul10_2311104070\MatematikaLibraries\obj\Debug\net8.0\MatematikaLibraries.AssemblyInfo.cs
+C:\Users\alvin\Documents\KPL_ALVIN-BAGUS-FIRMANSYAH_2311104070_S1SE-07-02\10_Integrated_Project_Implementation\JurnalModul10_2311104070\MatematikaLibraries\obj\Debug\net8.0\MatematikaLibraries.csproj.CoreCompileInputs.cache
+C:\Users\alvin\Documents\KPL_ALVIN-BAGUS-FIRMANSYAH_2311104070_S1SE-07-02\10_Integrated_Project_Implementation\JurnalModul10_2311104070\MatematikaLibraries\obj\Debug\net8.0\MatematikaLibraries.sourcelink.json
+C:\Users\alvin\Documents\KPL_ALVIN-BAGUS-FIRMANSYAH_2311104070_S1SE-07-02\10_Integrated_Project_Implementation\JurnalModul10_2311104070\MatematikaLibraries\obj\Debug\net8.0\MatematikaLibraries.dll
+C:\Users\alvin\Documents\KPL_ALVIN-BAGUS-FIRMANSYAH_2311104070_S1SE-07-02\10_Integrated_Project_Implementation\JurnalModul10_2311104070\MatematikaLibraries\obj\Debug\net8.0\refint\MatematikaLibraries.dll
+C:\Users\alvin\Documents\KPL_ALVIN-BAGUS-FIRMANSYAH_2311104070_S1SE-07-02\10_Integrated_Project_Implementation\JurnalModul10_2311104070\MatematikaLibraries\obj\Debug\net8.0\MatematikaLibraries.pdb
+C:\Users\alvin\Documents\KPL_ALVIN-BAGUS-FIRMANSYAH_2311104070_S1SE-07-02\10_Integrated_Project_Implementation\JurnalModul10_2311104070\MatematikaLibraries\obj\Debug\net8.0\ref\MatematikaLibraries.dll
