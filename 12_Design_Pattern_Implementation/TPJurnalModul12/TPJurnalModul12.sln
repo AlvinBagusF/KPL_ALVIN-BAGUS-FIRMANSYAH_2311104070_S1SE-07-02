@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35806.99 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TPJurnalModul12", "TPJurnalModul12\TPJurnalModul12.csproj", "{1008E07D-D8F2-4230-9397-FB17867C5261}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1008E07D-D8F2-4230-9397-FB17867C5261}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1008E07D-D8F2-4230-9397-FB17867C5261}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1008E07D-D8F2-4230-9397-FB17867C5261}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1008E07D-D8F2-4230-9397-FB17867C5261}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E931CD51-D59E-49AE-980D-796E8A9D074F}
+	EndGlobalSection
+EndGlobal

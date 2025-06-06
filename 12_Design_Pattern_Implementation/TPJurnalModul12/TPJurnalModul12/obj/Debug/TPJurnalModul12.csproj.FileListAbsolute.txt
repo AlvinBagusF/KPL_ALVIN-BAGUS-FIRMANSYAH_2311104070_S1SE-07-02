@@ -1,0 +1,9 @@
+C:\Users\alvin\Documents\KPL_ALVIN-BAGUS-FIRMANSYAH_2311104070_S1SE-07-02\12_Design_Pattern_Implementation\TPJurnalModul12\TPJurnalModul12\obj\Debug\TPJurnalModul12.csproj.AssemblyReference.cache
+C:\Users\alvin\Documents\KPL_ALVIN-BAGUS-FIRMANSYAH_2311104070_S1SE-07-02\12_Design_Pattern_Implementation\TPJurnalModul12\TPJurnalModul12\obj\Debug\TPJurnalModul12.Properties.Resources.resources
+C:\Users\alvin\Documents\KPL_ALVIN-BAGUS-FIRMANSYAH_2311104070_S1SE-07-02\12_Design_Pattern_Implementation\TPJurnalModul12\TPJurnalModul12\obj\Debug\TPJurnalModul12.csproj.GenerateResource.cache
+C:\Users\alvin\Documents\KPL_ALVIN-BAGUS-FIRMANSYAH_2311104070_S1SE-07-02\12_Design_Pattern_Implementation\TPJurnalModul12\TPJurnalModul12\obj\Debug\TPJurnalModul12.csproj.CoreCompileInputs.cache
+C:\Users\alvin\Documents\KPL_ALVIN-BAGUS-FIRMANSYAH_2311104070_S1SE-07-02\12_Design_Pattern_Implementation\TPJurnalModul12\TPJurnalModul12\bin\Debug\TPJurnalModul12.exe.config
+C:\Users\alvin\Documents\KPL_ALVIN-BAGUS-FIRMANSYAH_2311104070_S1SE-07-02\12_Design_Pattern_Implementation\TPJurnalModul12\TPJurnalModul12\bin\Debug\TPJurnalModul12.exe
+C:\Users\alvin\Documents\KPL_ALVIN-BAGUS-FIRMANSYAH_2311104070_S1SE-07-02\12_Design_Pattern_Implementation\TPJurnalModul12\TPJurnalModul12\bin\Debug\TPJurnalModul12.pdb
+C:\Users\alvin\Documents\KPL_ALVIN-BAGUS-FIRMANSYAH_2311104070_S1SE-07-02\12_Design_Pattern_Implementation\TPJurnalModul12\TPJurnalModul12\obj\Debug\TPJurnalModul12.exe
+C:\Users\alvin\Documents\KPL_ALVIN-BAGUS-FIRMANSYAH_2311104070_S1SE-07-02\12_Design_Pattern_Implementation\TPJurnalModul12\TPJurnalModul12\obj\Debug\TPJurnalModul12.pdb
