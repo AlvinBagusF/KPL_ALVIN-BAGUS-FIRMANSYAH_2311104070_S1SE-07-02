@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\alvin\\Documents\\KPL_ALVIN-BAGUS-FIRMANSYAH_2311104070_S1SE-07-02\\14_Secure_Coding_Practice\\JurnalModul14\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3F864BE6-AA7F-4144-B2A2-93FD84C982EF}|JurnalModul14\\JurnalModul14.csproj|c:\\users\\alvin\\documents\\kpl_alvin-bagus-firmansyah_2311104070_s1se-07-02\\14_secure_coding_practice\\jurnalmodul14\\jurnalmodul14\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F864BE6-AA7F-4144-B2A2-93FD84C982EF}|JurnalModul14\\JurnalModul14.csproj|solutionrelative:jurnalmodul14\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F864BE6-AA7F-4144-B2A2-93FD84C982EF}|JurnalModul14\\JurnalModul14.csproj|c:\\users\\alvin\\documents\\kpl_alvin-bagus-firmansyah_2311104070_s1se-07-02\\14_secure_coding_practice\\jurnalmodul14\\jurnalmodul14\\sayatubevideo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F864BE6-AA7F-4144-B2A2-93FD84C982EF}|JurnalModul14\\JurnalModul14.csproj|solutionrelative:jurnalmodul14\\sayatubevideo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SayaTubeVideo.cs",
+              "DocumentMoniker": "C:\\Users\\alvin\\Documents\\KPL_ALVIN-BAGUS-FIRMANSYAH_2311104070_S1SE-07-02\\14_Secure_Coding_Practice\\JurnalModul14\\JurnalModul14\\SayaTubeVideo.cs",
+              "RelativeDocumentMoniker": "JurnalModul14\\SayaTubeVideo.cs",
+              "ToolTip": "C:\\Users\\alvin\\Documents\\KPL_ALVIN-BAGUS-FIRMANSYAH_2311104070_S1SE-07-02\\14_Secure_Coding_Practice\\JurnalModul14\\JurnalModul14\\SayaTubeVideo.cs",
+              "RelativeToolTip": "JurnalModul14\\SayaTubeVideo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T07:00:13.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\alvin\\Documents\\KPL_ALVIN-BAGUS-FIRMANSYAH_2311104070_S1SE-07-02\\14_Secure_Coding_Practice\\JurnalModul14\\JurnalModul14\\Program.cs",
+              "RelativeDocumentMoniker": "JurnalModul14\\Program.cs",
+              "ToolTip": "C:\\Users\\alvin\\Documents\\KPL_ALVIN-BAGUS-FIRMANSYAH_2311104070_S1SE-07-02\\14_Secure_Coding_Practice\\JurnalModul14\\JurnalModul14\\Program.cs",
+              "RelativeToolTip": "JurnalModul14\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T06:59:55.957Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
