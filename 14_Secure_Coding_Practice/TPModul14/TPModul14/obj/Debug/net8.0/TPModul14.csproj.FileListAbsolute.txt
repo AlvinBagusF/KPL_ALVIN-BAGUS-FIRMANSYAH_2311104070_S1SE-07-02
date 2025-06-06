@@ -1,0 +1,15 @@
+C:\Users\alvin\Documents\KPL_ALVIN-BAGUS-FIRMANSYAH_2311104070_S1SE-07-02\14_Secure_Coding_Practice\TPModul14\TPModul14\bin\Debug\net8.0\TPModul14.exe
+C:\Users\alvin\Documents\KPL_ALVIN-BAGUS-FIRMANSYAH_2311104070_S1SE-07-02\14_Secure_Coding_Practice\TPModul14\TPModul14\bin\Debug\net8.0\TPModul14.deps.json
+C:\Users\alvin\Documents\KPL_ALVIN-BAGUS-FIRMANSYAH_2311104070_S1SE-07-02\14_Secure_Coding_Practice\TPModul14\TPModul14\bin\Debug\net8.0\TPModul14.runtimeconfig.json
+C:\Users\alvin\Documents\KPL_ALVIN-BAGUS-FIRMANSYAH_2311104070_S1SE-07-02\14_Secure_Coding_Practice\TPModul14\TPModul14\bin\Debug\net8.0\TPModul14.dll
+C:\Users\alvin\Documents\KPL_ALVIN-BAGUS-FIRMANSYAH_2311104070_S1SE-07-02\14_Secure_Coding_Practice\TPModul14\TPModul14\bin\Debug\net8.0\TPModul14.pdb
+C:\Users\alvin\Documents\KPL_ALVIN-BAGUS-FIRMANSYAH_2311104070_S1SE-07-02\14_Secure_Coding_Practice\TPModul14\TPModul14\obj\Debug\net8.0\TPModul14.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alvin\Documents\KPL_ALVIN-BAGUS-FIRMANSYAH_2311104070_S1SE-07-02\14_Secure_Coding_Practice\TPModul14\TPModul14\obj\Debug\net8.0\TPModul14.AssemblyInfoInputs.cache
+C:\Users\alvin\Documents\KPL_ALVIN-BAGUS-FIRMANSYAH_2311104070_S1SE-07-02\14_Secure_Coding_Practice\TPModul14\TPModul14\obj\Debug\net8.0\TPModul14.AssemblyInfo.cs
+C:\Users\alvin\Documents\KPL_ALVIN-BAGUS-FIRMANSYAH_2311104070_S1SE-07-02\14_Secure_Coding_Practice\TPModul14\TPModul14\obj\Debug\net8.0\TPModul14.csproj.CoreCompileInputs.cache
+C:\Users\alvin\Documents\KPL_ALVIN-BAGUS-FIRMANSYAH_2311104070_S1SE-07-02\14_Secure_Coding_Practice\TPModul14\TPModul14\obj\Debug\net8.0\TPModul14.sourcelink.json
+C:\Users\alvin\Documents\KPL_ALVIN-BAGUS-FIRMANSYAH_2311104070_S1SE-07-02\14_Secure_Coding_Practice\TPModul14\TPModul14\obj\Debug\net8.0\TPModul14.dll
+C:\Users\alvin\Documents\KPL_ALVIN-BAGUS-FIRMANSYAH_2311104070_S1SE-07-02\14_Secure_Coding_Practice\TPModul14\TPModul14\obj\Debug\net8.0\refint\TPModul14.dll
+C:\Users\alvin\Documents\KPL_ALVIN-BAGUS-FIRMANSYAH_2311104070_S1SE-07-02\14_Secure_Coding_Practice\TPModul14\TPModul14\obj\Debug\net8.0\TPModul14.pdb
+C:\Users\alvin\Documents\KPL_ALVIN-BAGUS-FIRMANSYAH_2311104070_S1SE-07-02\14_Secure_Coding_Practice\TPModul14\TPModul14\obj\Debug\net8.0\TPModul14.genruntimeconfig.cache
+C:\Users\alvin\Documents\KPL_ALVIN-BAGUS-FIRMANSYAH_2311104070_S1SE-07-02\14_Secure_Coding_Practice\TPModul14\TPModul14\obj\Debug\net8.0\ref\TPModul14.dll
