@@ -1,0 +1,15 @@
+C:\Users\alvin\Documents\KPL_ALVIN-BAGUS-FIRMANSYAH_2311104070_S1SE-07-02\13_Clean_Code_Standard\TPModul13\TPModul13\bin\Debug\net8.0\TPModul13.exe
+C:\Users\alvin\Documents\KPL_ALVIN-BAGUS-FIRMANSYAH_2311104070_S1SE-07-02\13_Clean_Code_Standard\TPModul13\TPModul13\bin\Debug\net8.0\TPModul13.deps.json
+C:\Users\alvin\Documents\KPL_ALVIN-BAGUS-FIRMANSYAH_2311104070_S1SE-07-02\13_Clean_Code_Standard\TPModul13\TPModul13\bin\Debug\net8.0\TPModul13.runtimeconfig.json
+C:\Users\alvin\Documents\KPL_ALVIN-BAGUS-FIRMANSYAH_2311104070_S1SE-07-02\13_Clean_Code_Standard\TPModul13\TPModul13\bin\Debug\net8.0\TPModul13.dll
+C:\Users\alvin\Documents\KPL_ALVIN-BAGUS-FIRMANSYAH_2311104070_S1SE-07-02\13_Clean_Code_Standard\TPModul13\TPModul13\bin\Debug\net8.0\TPModul13.pdb
+C:\Users\alvin\Documents\KPL_ALVIN-BAGUS-FIRMANSYAH_2311104070_S1SE-07-02\13_Clean_Code_Standard\TPModul13\TPModul13\obj\Debug\net8.0\TPModul13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alvin\Documents\KPL_ALVIN-BAGUS-FIRMANSYAH_2311104070_S1SE-07-02\13_Clean_Code_Standard\TPModul13\TPModul13\obj\Debug\net8.0\TPModul13.AssemblyInfoInputs.cache
+C:\Users\alvin\Documents\KPL_ALVIN-BAGUS-FIRMANSYAH_2311104070_S1SE-07-02\13_Clean_Code_Standard\TPModul13\TPModul13\obj\Debug\net8.0\TPModul13.AssemblyInfo.cs
+C:\Users\alvin\Documents\KPL_ALVIN-BAGUS-FIRMANSYAH_2311104070_S1SE-07-02\13_Clean_Code_Standard\TPModul13\TPModul13\obj\Debug\net8.0\TPModul13.csproj.CoreCompileInputs.cache
+C:\Users\alvin\Documents\KPL_ALVIN-BAGUS-FIRMANSYAH_2311104070_S1SE-07-02\13_Clean_Code_Standard\TPModul13\TPModul13\obj\Debug\net8.0\TPModul13.sourcelink.json
+C:\Users\alvin\Documents\KPL_ALVIN-BAGUS-FIRMANSYAH_2311104070_S1SE-07-02\13_Clean_Code_Standard\TPModul13\TPModul13\obj\Debug\net8.0\TPModul13.dll
+C:\Users\alvin\Documents\KPL_ALVIN-BAGUS-FIRMANSYAH_2311104070_S1SE-07-02\13_Clean_Code_Standard\TPModul13\TPModul13\obj\Debug\net8.0\refint\TPModul13.dll
+C:\Users\alvin\Documents\KPL_ALVIN-BAGUS-FIRMANSYAH_2311104070_S1SE-07-02\13_Clean_Code_Standard\TPModul13\TPModul13\obj\Debug\net8.0\TPModul13.pdb
+C:\Users\alvin\Documents\KPL_ALVIN-BAGUS-FIRMANSYAH_2311104070_S1SE-07-02\13_Clean_Code_Standard\TPModul13\TPModul13\obj\Debug\net8.0\TPModul13.genruntimeconfig.cache
+C:\Users\alvin\Documents\KPL_ALVIN-BAGUS-FIRMANSYAH_2311104070_S1SE-07-02\13_Clean_Code_Standard\TPModul13\TPModul13\obj\Debug\net8.0\ref\TPModul13.dll
