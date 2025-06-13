@@ -6,9 +6,9 @@
         DataMahasiswa2311104070.ReadJson("mahasiswa.json");
 
         Console.WriteLine("\nAnggota Tim:");
-        TeamMembers2311104054.ReadJson("team.json");
+        TeamMembers2311104070.ReadJson("team.json");
 
         Console.WriteLine("\nGlossary:");
-        GlossaryItem2311104054.ReadJson("glossary.json");
+        GlossaryItem2311104070.ReadJson("glossary.json");
     }
 }
