@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\alvin\\Documents\\KPL_ALVIN-BAGUS-FIRMANSYAH_2311104070_S1SE-07-02\\07_Runtime_Configuration_Internationalization\\JurnalModul7_2311104070\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CA5C252F-CD88-4990-BFFC-AD09C909FA6F}|JurnalModul7_2311104070\\JurnalModul7_2311104070.csproj|c:\\users\\alvin\\documents\\kpl_alvin-bagus-firmansyah_2311104070_s1se-07-02\\07_runtime_configuration_internationalization\\jurnalmodul7_2311104070\\jurnalmodul7_2311104070\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA5C252F-CD88-4990-BFFC-AD09C909FA6F}|JurnalModul7_2311104070\\JurnalModul7_2311104070.csproj|solutionrelative:jurnalmodul7_2311104070\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA5C252F-CD88-4990-BFFC-AD09C909FA6F}|JurnalModul7_2311104070\\JurnalModul7_2311104070.csproj|c:\\users\\alvin\\documents\\kpl_alvin-bagus-firmansyah_2311104070_s1se-07-02\\07_runtime_configuration_internationalization\\jurnalmodul7_2311104070\\jurnalmodul7_2311104070\\glossary.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CA5C252F-CD88-4990-BFFC-AD09C909FA6F}|JurnalModul7_2311104070\\JurnalModul7_2311104070.csproj|solutionrelative:jurnalmodul7_2311104070\\glossary.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA5C252F-CD88-4990-BFFC-AD09C909FA6F}|JurnalModul7_2311104070\\JurnalModul7_2311104070.csproj|c:\\users\\alvin\\documents\\kpl_alvin-bagus-firmansyah_2311104070_s1se-07-02\\07_runtime_configuration_internationalization\\jurnalmodul7_2311104070\\jurnalmodul7_2311104070\\team.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CA5C252F-CD88-4990-BFFC-AD09C909FA6F}|JurnalModul7_2311104070\\JurnalModul7_2311104070.csproj|solutionrelative:jurnalmodul7_2311104070\\team.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA5C252F-CD88-4990-BFFC-AD09C909FA6F}|JurnalModul7_2311104070\\JurnalModul7_2311104070.csproj|c:\\users\\alvin\\documents\\kpl_alvin-bagus-firmansyah_2311104070_s1se-07-02\\07_runtime_configuration_internationalization\\jurnalmodul7_2311104070\\jurnalmodul7_2311104070\\mahasiswa.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CA5C252F-CD88-4990-BFFC-AD09C909FA6F}|JurnalModul7_2311104070\\JurnalModul7_2311104070.csproj|solutionrelative:jurnalmodul7_2311104070\\mahasiswa.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA5C252F-CD88-4990-BFFC-AD09C909FA6F}|JurnalModul7_2311104070\\JurnalModul7_2311104070.csproj|c:\\users\\alvin\\documents\\kpl_alvin-bagus-firmansyah_2311104070_s1se-07-02\\07_runtime_configuration_internationalization\\jurnalmodul7_2311104070\\jurnalmodul7_2311104070\\datamahasiswa2311104070.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA5C252F-CD88-4990-BFFC-AD09C909FA6F}|JurnalModul7_2311104070\\JurnalModul7_2311104070.csproj|solutionrelative:jurnalmodul7_2311104070\\datamahasiswa2311104070.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA5C252F-CD88-4990-BFFC-AD09C909FA6F}|JurnalModul7_2311104070\\JurnalModul7_2311104070.csproj|c:\\users\\alvin\\documents\\kpl_alvin-bagus-firmansyah_2311104070_s1se-07-02\\07_runtime_configuration_internationalization\\jurnalmodul7_2311104070\\jurnalmodul7_2311104070\\teammembers2311104070.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA5C252F-CD88-4990-BFFC-AD09C909FA6F}|JurnalModul7_2311104070\\JurnalModul7_2311104070.csproj|solutionrelative:jurnalmodul7_2311104070\\teammembers2311104070.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA5C252F-CD88-4990-BFFC-AD09C909FA6F}|JurnalModul7_2311104070\\JurnalModul7_2311104070.csproj|c:\\users\\alvin\\documents\\kpl_alvin-bagus-firmansyah_2311104070_s1se-07-02\\07_runtime_configuration_internationalization\\jurnalmodul7_2311104070\\jurnalmodul7_2311104070\\glossaryitem2311104054.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA5C252F-CD88-4990-BFFC-AD09C909FA6F}|JurnalModul7_2311104070\\JurnalModul7_2311104070.csproj|solutionrelative:jurnalmodul7_2311104070\\glossaryitem2311104054.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "glossary.json",
+              "DocumentMoniker": "C:\\Users\\alvin\\Documents\\KPL_ALVIN-BAGUS-FIRMANSYAH_2311104070_S1SE-07-02\\07_Runtime_Configuration_Internationalization\\JurnalModul7_2311104070\\JurnalModul7_2311104070\\glossary.json",
+              "RelativeDocumentMoniker": "JurnalModul7_2311104070\\glossary.json",
+              "ToolTip": "C:\\Users\\alvin\\Documents\\KPL_ALVIN-BAGUS-FIRMANSYAH_2311104070_S1SE-07-02\\07_Runtime_Configuration_Internationalization\\JurnalModul7_2311104070\\JurnalModul7_2311104070\\glossary.json",
+              "RelativeToolTip": "JurnalModul7_2311104070\\glossary.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-13T09:26:35.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "team.json",
+              "DocumentMoniker": "C:\\Users\\alvin\\Documents\\KPL_ALVIN-BAGUS-FIRMANSYAH_2311104070_S1SE-07-02\\07_Runtime_Configuration_Internationalization\\JurnalModul7_2311104070\\JurnalModul7_2311104070\\team.json",
+              "RelativeDocumentMoniker": "JurnalModul7_2311104070\\team.json",
+              "ToolTip": "C:\\Users\\alvin\\Documents\\KPL_ALVIN-BAGUS-FIRMANSYAH_2311104070_S1SE-07-02\\07_Runtime_Configuration_Internationalization\\JurnalModul7_2311104070\\JurnalModul7_2311104070\\team.json",
+              "RelativeToolTip": "JurnalModul7_2311104070\\team.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-13T09:26:18.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "mahasiswa.json",
+              "DocumentMoniker": "C:\\Users\\alvin\\Documents\\KPL_ALVIN-BAGUS-FIRMANSYAH_2311104070_S1SE-07-02\\07_Runtime_Configuration_Internationalization\\JurnalModul7_2311104070\\JurnalModul7_2311104070\\mahasiswa.json",
+              "RelativeDocumentMoniker": "JurnalModul7_2311104070\\mahasiswa.json",
+              "ToolTip": "C:\\Users\\alvin\\Documents\\KPL_ALVIN-BAGUS-FIRMANSYAH_2311104070_S1SE-07-02\\07_Runtime_Configuration_Internationalization\\JurnalModul7_2311104070\\JurnalModul7_2311104070\\mahasiswa.json",
+              "RelativeToolTip": "JurnalModul7_2311104070\\mahasiswa.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-13T09:25:49.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GlossaryItem2311104054.cs",
+              "DocumentMoniker": "C:\\Users\\alvin\\Documents\\KPL_ALVIN-BAGUS-FIRMANSYAH_2311104070_S1SE-07-02\\07_Runtime_Configuration_Internationalization\\JurnalModul7_2311104070\\JurnalModul7_2311104070\\GlossaryItem2311104054.cs",
+              "RelativeDocumentMoniker": "JurnalModul7_2311104070\\GlossaryItem2311104054.cs",
+              "ToolTip": "C:\\Users\\alvin\\Documents\\KPL_ALVIN-BAGUS-FIRMANSYAH_2311104070_S1SE-07-02\\07_Runtime_Configuration_Internationalization\\JurnalModul7_2311104070\\JurnalModul7_2311104070\\GlossaryItem2311104054.cs",
+              "RelativeToolTip": "JurnalModul7_2311104070\\GlossaryItem2311104054.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T09:24:21.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TeamMembers2311104070.cs",
+              "DocumentMoniker": "C:\\Users\\alvin\\Documents\\KPL_ALVIN-BAGUS-FIRMANSYAH_2311104070_S1SE-07-02\\07_Runtime_Configuration_Internationalization\\JurnalModul7_2311104070\\JurnalModul7_2311104070\\TeamMembers2311104070.cs",
+              "RelativeDocumentMoniker": "JurnalModul7_2311104070\\TeamMembers2311104070.cs",
+              "ToolTip": "C:\\Users\\alvin\\Documents\\KPL_ALVIN-BAGUS-FIRMANSYAH_2311104070_S1SE-07-02\\07_Runtime_Configuration_Internationalization\\JurnalModul7_2311104070\\JurnalModul7_2311104070\\TeamMembers2311104070.cs",
+              "RelativeToolTip": "JurnalModul7_2311104070\\TeamMembers2311104070.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T09:24:04.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DataMahasiswa2311104070.cs",
+              "DocumentMoniker": "C:\\Users\\alvin\\Documents\\KPL_ALVIN-BAGUS-FIRMANSYAH_2311104070_S1SE-07-02\\07_Runtime_Configuration_Internationalization\\JurnalModul7_2311104070\\JurnalModul7_2311104070\\DataMahasiswa2311104070.cs",
+              "RelativeDocumentMoniker": "JurnalModul7_2311104070\\DataMahasiswa2311104070.cs",
+              "ToolTip": "C:\\Users\\alvin\\Documents\\KPL_ALVIN-BAGUS-FIRMANSYAH_2311104070_S1SE-07-02\\07_Runtime_Configuration_Internationalization\\JurnalModul7_2311104070\\JurnalModul7_2311104070\\DataMahasiswa2311104070.cs",
+              "RelativeToolTip": "JurnalModul7_2311104070\\DataMahasiswa2311104070.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T09:23:47.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\alvin\\Documents\\KPL_ALVIN-BAGUS-FIRMANSYAH_2311104070_S1SE-07-02\\07_Runtime_Configuration_Internationalization\\JurnalModul7_2311104070\\JurnalModul7_2311104070\\Program.cs",
+              "RelativeDocumentMoniker": "JurnalModul7_2311104070\\Program.cs",
+              "ToolTip": "C:\\Users\\alvin\\Documents\\KPL_ALVIN-BAGUS-FIRMANSYAH_2311104070_S1SE-07-02\\07_Runtime_Configuration_Internationalization\\JurnalModul7_2311104070\\JurnalModul7_2311104070\\Program.cs",
+              "RelativeToolTip": "JurnalModul7_2311104070\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T09:23:31.748Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

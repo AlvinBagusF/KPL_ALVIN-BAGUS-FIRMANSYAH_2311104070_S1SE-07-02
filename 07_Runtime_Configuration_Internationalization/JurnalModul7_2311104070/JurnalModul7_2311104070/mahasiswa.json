@@ -1,0 +1,21 @@
+{
+  "NamaDepan": "Alvin",
+  "NamaBelakang": "Firmansyah",
+  "JenisKelamin": "Laki-laki",
+  "Usia": 20,
+  "Alamat": {
+    "Jalan": "Jl. Raya Informatika No.1",
+    "Kota": "Bandung",
+    "Provinsi": "Jawa Barat"
+  },
+  "MataKuliah": [
+    {
+      "Kode": "IF101",
+      "Nama": "Pemrograman Dasar"
+    },
+    {
+      "Kode": "IF102",
+      "Nama": "Struktur Data"
+    }
+  ]
+}
